@@ -21,7 +21,7 @@ for i in range(number_stock):
         total+=investment
         data.append([stock_name,stock_quantity,price,investment])
     else:
-        print("not found")
+        print("Stock not found")
 data.append(["total","","",total])   
 df = pd.DataFrame(data, columns=["Stock", "Quantity", "Price", "Investment"])
 csv_path = r"C:\quratulain.py\stock_report.csv"
