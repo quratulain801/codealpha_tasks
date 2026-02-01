@@ -46,6 +46,3 @@ Run the program:
 
 python portfolio.py
 
-
-
-If you want, send Task 1 or Task 3 instructions, I’ll give you perfect READMEs for those too 🚀
