@@ -29,4 +29,4 @@ csv_path = r"C:\quratulain.py\stock_report.csv"
 df.to_csv(csv_path, index=False)
 print("CSV saved at:", csv_path)
 print(f"Total Investment: {total}") 
-# print(f"Total Investment: {total}") 
+
