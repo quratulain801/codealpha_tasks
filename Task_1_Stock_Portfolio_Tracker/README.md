@@ -1,4 +1,4 @@
-roject Description
+Project Description
 
 The program allows users to:
 
